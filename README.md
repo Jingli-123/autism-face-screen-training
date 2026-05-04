@@ -31,7 +31,7 @@ feature discrimination in ASD classification
 
 The following plots show the training and validation performance during model training.
 
-### Accuracy Curve
+### Accuracy & Loss Curve
 ![Accuracy Curve](images/training_curves_53.png)
 Figure: Large dataset (ASD:3556, TD:4364) training and validation curves with
 data augmentation and noise reduction
