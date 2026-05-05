@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project focuses on training a deep learning model for facial image classification as part of an autism-related research study.
+This project focuses on training a deep learning model for facial image classification as part of an autism-related research.
 
 The repository includes a representative implementation of the data preprocessing and training pipeline used during the project. The model was developed through iterative experimentation, including hyperparameter tuning and various data augmentation techniques to improve generalisation performance.
 
